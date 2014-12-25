@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  GitHubExample
+//  PelegProject1
 //
 //  Created by Peleg Aran on 12/25/14.
 //  Copyright (c) 2014 Peleg Aran. All rights reserved.
@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        println("peleg arandfsfsdfds")
+        // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
